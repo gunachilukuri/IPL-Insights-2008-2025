@@ -1,0 +1,561 @@
+{
+  "config": "{\"version\":\"5.65\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU10\",\"type\":2,\"version\":\"5.59\"}},\"activeSectionIndex\":0,\"defaultDrillFilterOtherVisuals\":true,\"linguisticSchemaSyncVersion\":2,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true,\"useEnhancedTooltips\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}],\"outspacePane\":[{\"properties\":{\"expanded\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}",
+  "layoutOptimization": 0,
+  "resourcePackages": [
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "ChatGPT_Image_Feb_8,_2026,_06_13308305982359891.png",
+            "path": "ChatGPT_Image_Feb_8,_2026,_06_13308305982359891.png",
+            "type": 100
+          },
+          {
+            "name": "ChatGPT_Image_Feb_8,_2026,_09_1602462797262174.png",
+            "path": "ChatGPT_Image_Feb_8,_2026,_09_1602462797262174.png",
+            "type": 100
+          },
+          {
+            "name": "Cricbuzz-Logo4878974040389078.png",
+            "path": "Cricbuzz-Logo4878974040389078.png",
+            "type": 100
+          },
+          {
+            "name": "Orange_Cap6249674355457127.png",
+            "path": "Orange_Cap6249674355457127.png",
+            "type": 100
+          },
+          {
+            "name": "Picture19893152320978078.png",
+            "path": "Picture19893152320978078.png",
+            "type": 100
+          },
+          {
+            "name": "Purple_Cap2746600162000157.png",
+            "path": "Purple_Cap2746600162000157.png",
+            "type": 100
+          },
+          {
+            "name": "Screenshot_2026-02-07_222028604910421498367.png",
+            "path": "Screenshot_2026-02-07_222028604910421498367.png",
+            "type": 100
+          },
+          {
+            "name": "unnamed018931466290495913.png",
+            "path": "unnamed018931466290495913.png",
+            "type": 100
+          }
+        ],
+        "name": "RegisteredResources",
+        "type": 1
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "CY24SU10",
+            "path": "BaseThemes/CY24SU10.json",
+            "type": 202
+          }
+        ],
+        "name": "SharedResources",
+        "type": 2
+      }
+    }
+  ],
+  "sections": [
+    {
+      "config": "{\"objects\":{\"displayArea\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]}}",
+      "displayName": "Page 1",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 900.00,
+      "name": "866445f940a58dc995e2",
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"0049cbfffba3af499533\",\"layouts\":[{\"id\":0,\"position\":{\"x\":805.8162410753573,\"y\":184.88424578785254,\"z\":7000,\"width\":197.67497977317566,\"height\":122.09336985990262,\"tabOrder\":23000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}},\"selector\":{\"id\":\"default\"}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"shadowPositionPreset\":{\"expr\":{\"Literal\":{\"Value\":\"'topRight'\"}}},\"shadowBlur\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}}},\"selector\":{\"id\":\"default\"}}],\"glow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 122.09,
+          "width": 197.67,
+          "x": 805.82,
+          "y": 184.88,
+          "z": 7000.00
+        },
+        {
+          "config": "{\"name\":\"04dea1a170321b74f2de\",\"layouts\":[{\"id\":0,\"position\":{\"x\":405.7808857808858,\"y\":300.2527297264139,\"z\":22000,\"width\":197.23714881609618,\"height\":121.85989449147344,\"tabOrder\":20000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}},\"selector\":{\"id\":\"default\"}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"shadowPositionPreset\":{\"expr\":{\"Literal\":{\"Value\":\"'topRight'\"}}},\"shadowBlur\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}}},\"selector\":{\"id\":\"default\"}}],\"glow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 121.86,
+          "width": 197.24,
+          "x": 405.78,
+          "y": 300.25,
+          "z": 22000.00
+        },
+        {
+          "config": "{\"name\":\"138f26787addee7cec49\",\"layouts\":[{\"id\":0,\"position\":{\"x\":257.22488038277515,\"y\":467.8100846521899,\"z\":29000,\"width\":180.9054103790946,\"height\":42.3997055576003,\"tabOrder\":27000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"OrangeCap_Base.Top Scorer\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"o\",\"Entity\":\"OrangeCap_Base\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"Top Scorer\"},\"Name\":\"OrangeCap_Base.Top Scorer\",\"NativeReferenceName\":\"Top Scorer\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"labels\":[{\"properties\":{\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}},\"preserveWhitespace\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"wordWrap\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 42.40,
+          "width": 180.91,
+          "x": 257.22,
+          "y": 467.81,
+          "z": 29000.00
+        },
+        {
+          "config": "{\"name\":\"1cba5b7c60426ea1a0b0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":841.8628550339952,\"y\":183.7214517891868,\"z\":8000,\"width\":125.58175185589984,\"height\":117.44219386523966,\"tabOrder\":15000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"ball_by_ball_data.Total Teams\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"b\",\"Entity\":\"ball_by_ball_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Total Teams\"},\"Name\":\"ball_by_ball_data.Total Teams\",\"NativeReferenceName\":\"Total Teams\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Total Teams\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 117.44,
+          "width": 125.58,
+          "x": 841.86,
+          "y": 183.72,
+          "z": 8000.00
+        },
+        {
+          "config": "{\"name\":\"1ef216ade2ba3f80b974\",\"layouts\":[{\"id\":0,\"position\":{\"x\":322.23776223776224,\"y\":819.7276407802724,\"z\":43000,\"width\":196.45196908354805,\"height\":62.18623481781377,\"tabOrder\":43000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"PurpleCap_Base.Top wicket taker team\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"p\",\"Entity\":\"PurpleCap_Base\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"p\"}},\"Property\":\"Top wicket taker team\"},\"Name\":\"PurpleCap_Base.Top wicket taker team\",\"NativeReferenceName\":\"Top wicket taker team\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"labels\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}},\"preserveWhitespace\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"wordWrap\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'Team '\"}}},\"alignment\":{\"expr\":{\"Literal\":{\"Value\":\"'center'\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 62.19,
+          "width": 196.45,
+          "x": 322.24,
+          "y": 819.73,
+          "z": 43000.00
+        },
+        {
+          "config": "{\"name\":\"22c99b43341075915fef\",\"layouts\":[{\"id\":0,\"position\":{\"x\":205.81453776383586,\"y\":79.06999190927027,\"z\":4000,\"width\":394.1871655476856,\"height\":119.76778186257114,\"tabOrder\":7000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.3}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 119.77,
+          "width": 394.19,
+          "x": 205.81,
+          "y": 79.07,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"2344eaac1d199bd8544e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":223.3051159366949,\"y\":665.6753772543246,\"z\":27000,\"width\":375.94405594405595,\"height\":220.47846889952154,\"tabOrder\":30000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 220.48,
+          "width": 375.94,
+          "x": 223.31,
+          "y": 665.68,
+          "z": 27000.00
+        },
+        {
+          "config": "{\"name\":\"2cc0bf3be7ed2af89453\",\"layouts\":[{\"id\":0,\"position\":{\"x\":84.7994111152006,\"y\":65.01288185498711,\"z\":47000,\"width\":115.89252852410748,\"height\":48.052999631947,\"tabOrder\":47000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"OrangeCap_Base.Selected Season\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"o\",\"Entity\":\"OrangeCap_Base\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"Selected Season\"},\"Name\":\"OrangeCap_Base.Selected Season\",\"NativeReferenceName\":\"Selected Season\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"35D\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.05,
+          "width": 115.89,
+          "x": 84.80,
+          "y": 65.01,
+          "z": 47000.00
+        },
+        {
+          "config": "{\"name\":\"2e784cc5db5b4bac308c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1006.9796028445302,\"y\":101.16307788391931,\"z\":0,\"width\":200.00056777050716,\"height\":80.232785907936,\"tabOrder\":11000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"Screenshot_2026-02-07_222028604910421498367.png\"}}}}}],\"imageScaling\":[{\"properties\":{\"imageScalingType\":{\"expr\":{\"Literal\":{\"Value\":\"'Fit'\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 80.23,
+          "width": 200.00,
+          "x": 1006.98,
+          "y": 101.16,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"31afffbe7eb94afe48be\",\"layouts\":[{\"id\":0,\"position\":{\"x\":990.7004868632098,\"y\":89.53513789726192,\"z\":5000,\"width\":232.55879973314785,\"height\":101.16307788391931,\"tabOrder\":10000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#FFFFFF'\"}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"shadowBlur\":{\"expr\":{\"Literal\":{\"Value\":\"19D\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"70D\"}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.3}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 101.16,
+          "width": 232.56,
+          "x": 990.70,
+          "y": 89.54,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"31fbf01348d08b9e9f97\",\"layouts\":[{\"id\":0,\"position\":{\"x\":537.0629370629371,\"y\":14.133235185866765,\"z\":3000,\"width\":419.7570850202429,\"height\":53.70629370629371,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"IPL INSIGHTS (2008 - 2025)\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"Times New Roman\",\"fontSize\":\"24pt\",\"color\":\"#ffffff\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.1}}}}},\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"border\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"radius\":{\"expr\":{\"Literal\":{\"Value\":\"6D\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 53.71,
+          "width": 419.76,
+          "x": 537.06,
+          "y": 14.13,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"3292c1377c57f921031e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":194.18659777717846,\"y\":0,\"z\":1000,\"width\":1086.0495947538004,\"height\":81.39557990660175,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"Picture19893152320978078.png\"}}}}}],\"imageScaling\":[{\"properties\":{\"imageScalingType\":{\"expr\":{\"Literal\":{\"Value\":\"'Fit'\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 81.40,
+          "width": 1086.05,
+          "x": 194.19,
+          "y": 0.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"346a6fb55af23ea1f59c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":438.44436265488895,\"y\":304.02159244264504,\"z\":24000,\"width\":125.62875720770457,\"height\":108.04073119862593,\"tabOrder\":17000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"ball_by_ball_data.Centuries\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"b\",\"Entity\":\"ball_by_ball_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Centuries\"},\"Name\":\"ball_by_ball_data.Centuries\",\"NativeReferenceName\":\"Centuries\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Centuries\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 108.04,
+          "width": 125.63,
+          "x": 438.44,
+          "y": 304.02,
+          "z": 24000.00
+        },
+        {
+          "config": "{\"name\":\"385a98c7d17003f9d818\",\"layouts\":[{\"id\":0,\"position\":{\"x\":603.4891424365109,\"y\":350.5042326094958,\"z\":56001,\"width\":661.4354066985646,\"height\":535.6496135443504,\"tabOrder\":50001}}],\"singleVisual\":{\"visualType\":\"tableEx\",\"projections\":{\"Values\":[{\"queryRef\":\"teams_data.team_name\"},{\"queryRef\":\"OrangeCap_Base.Pld\"},{\"queryRef\":\"OrangeCap_Base.Wins\"},{\"queryRef\":\"OrangeCap_Base.Losses\"},{\"queryRef\":\"OrangeCap_Base.NRR\"},{\"queryRef\":\"OrangeCap_Base.Points\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"t\",\"Entity\":\"teams_data\",\"Type\":0},{\"Name\":\"o\",\"Entity\":\"OrangeCap_Base\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"t\"}},\"Property\":\"team_name\"},\"Name\":\"teams_data.team_name\",\"NativeReferenceName\":\"team_name\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"Pld\"},\"Name\":\"OrangeCap_Base.Pld\",\"NativeReferenceName\":\"Pld\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"Wins\"},\"Name\":\"OrangeCap_Base.Wins\",\"NativeReferenceName\":\"Wins\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"Losses\"},\"Name\":\"OrangeCap_Base.Losses\",\"NativeReferenceName\":\"Losses\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"NR\"},\"Name\":\"OrangeCap_Base.NRR\",\"NativeReferenceName\":\"NR\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"Points\"},\"Name\":\"OrangeCap_Base.Points\",\"NativeReferenceName\":\"Points\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"Points\"}}}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"total\":[{\"properties\":{\"totals\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"grid\":[{\"properties\":{}}],\"columnHeaders\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}}}}],\"values\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"21D\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"45D\"}}}}}],\"stylePreset\":[{\"properties\":{\"name\":{\"expr\":{\"Literal\":{\"Value\":\"'Sparse'\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 535.65,
+          "width": 661.44,
+          "x": 603.49,
+          "y": 350.50,
+          "z": 56001.00
+        },
+        {
+          "config": "{\"name\":\"3b30c286d63a83382108\",\"layouts\":[{\"id\":0,\"position\":{\"x\":49.46632315053368,\"y\":421.17040853882963,\"z\":46000,\"width\":101.75929333824071,\"height\":73.49282296650718,\"tabOrder\":46000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"Cricbuzz-Logo4878974040389078.png\"}}}}}],\"imageScaling\":[{\"properties\":{\"imageScalingType\":{\"expr\":{\"Literal\":{\"Value\":\"'Normal'\"}}}}}]},\"vcObjects\":{\"visualLink\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"type\":{\"expr\":{\"Literal\":{\"Value\":\"'WebUrl'\"}}},\"webUrl\":{\"expr\":{\"Literal\":{\"Value\":\"'https://www.cricbuzz.com/'\"}}}}}],\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'CRICBUZZ'\"}}},\"fontColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 73.49,
+          "width": 101.76,
+          "x": 49.47,
+          "y": 421.17,
+          "z": 46000.00
+        },
+        {
+          "config": "{\"name\":\"3b46f6f67527e1b47a09\",\"layouts\":[{\"id\":0,\"position\":{\"x\":272.7714390872286,\"y\":758.9547294810453,\"z\":39000,\"width\":69.25285241074715,\"height\":50.879646669120355,\"tabOrder\":39000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"PurpleCap_Base.Top Wickets\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"p\",\"Entity\":\"PurpleCap_Base\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"p\"}},\"Property\":\"Top Wickets\"},\"Name\":\"PurpleCap_Base.Top Wickets\",\"NativeReferenceName\":\"Top Wickets\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"p\"}},\"Property\":\"Top Wickets\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"25D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 50.88,
+          "width": 69.25,
+          "x": 272.77,
+          "y": 758.95,
+          "z": 39000.00
+        },
+        {
+          "config": "{\"name\":\"3d5740a46612d5f08b0a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":272.7714390872286,\"y\":505.9698196540302,\"z\":32000,\"width\":76.31947000368054,\"height\":32.50644092749356,\"tabOrder\":33000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Runs\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"Tahoma\",\"fontSize\":\"12pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 32.51,
+          "width": 76.32,
+          "x": 272.77,
+          "y": 505.97,
+          "z": 32000.00
+        },
+        {
+          "config": "{\"name\":\"3fb4f1b29a573fc5751a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":258.6382039013618,\"y\":510.20979020979024,\"z\":28000,\"width\":80.55944055944056,\"height\":65.01288185498711,\"tabOrder\":26000}}],\"singleVisual\":{\"visualType\":\"cardVisual\",\"projections\":{\"Data\":[{\"queryRef\":\"OrangeCap_Base.Top Runs\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"o\",\"Entity\":\"OrangeCap_Base\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"Top Runs\"},\"Name\":\"OrangeCap_Base.Top Runs\",\"NativeReferenceName\":\"Top Runs\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"Top Runs\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"value\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"label\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}}],\"fillCustom\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 65.01,
+          "width": 80.56,
+          "x": 258.64,
+          "y": 510.21,
+          "z": 28000.00
+        },
+        {
+          "config": "{\"name\":\"44ce699254c131f86503\",\"layouts\":[{\"id\":0,\"position\":{\"x\":218.605271749159,\"y\":74.41881591460731,\"z\":10000,\"width\":153.48880782387758,\"height\":116.27939986657393,\"tabOrder\":6000}}],\"singleVisual\":{\"visualType\":\"cardVisual\",\"projections\":{\"Data\":[{\"queryRef\":\"ball_by_ball_data.ipl logo\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"b\",\"Entity\":\"ball_by_ball_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"ipl logo winner\"},\"Name\":\"ball_by_ball_data.ipl logo\",\"NativeReferenceName\":\"ipl logo winner\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"image\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"imageType\":{\"expr\":{\"Literal\":{\"Value\":\"'imageUrl'\"}}},\"imageUrl\":{\"expr\":{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"teams_data\"}},\"Property\":\"image_url\"}},\"Function\":3}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{},\"selector\":{\"metadata\":\"ball_by_ball_data.ipl logo\"}},{\"properties\":{\"imageUrl\":{\"expr\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"ball_by_ball_data\"}},\"Property\":\"ipl logo winner\"}}}},\"selector\":{\"data\":[{\"dataViewWildcard\":{\"matchingOption\":0}}],\"metadata\":\"ball_by_ball_data.ipl logo\"}}],\"value\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fillCustom\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}}],\"label\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}}]},\"vcObjects\":{\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 116.28,
+          "width": 153.49,
+          "x": 218.61,
+          "y": 74.42,
+          "z": 10000.00
+        },
+        {
+          "config": "{\"name\":\"486b922aea6e7a939ac8\",\"layouts\":[{\"id\":0,\"position\":{\"x\":205.81453776383586,\"y\":300.0008516557607,\"z\":20000,\"width\":197.67497977317566,\"height\":122.09336985990262,\"tabOrder\":21000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}},\"selector\":{\"id\":\"default\"}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"shadowPositionPreset\":{\"expr\":{\"Literal\":{\"Value\":\"'topRight'\"}}},\"shadowBlur\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}}},\"selector\":{\"id\":\"default\"}}],\"glow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 122.09,
+          "width": 197.67,
+          "x": 205.81,
+          "y": 300.00,
+          "z": 20000.00
+        },
+        {
+          "config": "{\"name\":\"4ab9a2f00b3725ee034b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":268.53146853146853,\"y\":676.9819654030181,\"z\":37000,\"width\":97.51932278248069,\"height\":39.57305852042694,\"tabOrder\":37000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Purple Cap\",\"textStyle\":{\"fontFamily\":\"Tahoma\",\"fontSize\":\"12pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 39.57,
+          "width": 97.52,
+          "x": 268.53,
+          "y": 676.98,
+          "z": 37000.00
+        },
+        {
+          "config": "{\"name\":\"4b8fd4bc3d293e9b9615\",\"layouts\":[{\"id\":0,\"position\":{\"x\":219.76806574782472,\"y\":191.86100977984697,\"z\":17000,\"width\":167.44233580786644,\"height\":110.46542987324523,\"tabOrder\":13000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"ball_by_ball_data.Total Sixes\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"b\",\"Entity\":\"ball_by_ball_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Total Sixes\"},\"Name\":\"ball_by_ball_data.Total Sixes\",\"NativeReferenceName\":\"Total Sixes\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Total Sixes\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 110.47,
+          "width": 167.44,
+          "x": 219.77,
+          "y": 191.86,
+          "z": 17000.00
+        },
+        {
+          "config": "{\"name\":\"4bc28139e3b73f550883\",\"layouts\":[{\"id\":0,\"position\":{\"x\":162.5322046374678,\"y\":676.9819654030181,\"z\":36000,\"width\":210.58520426941482,\"height\":196.45196908354805,\"tabOrder\":36000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'line'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}},\"angle\":{\"expr\":{\"Literal\":{\"Value\":\"90D\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":2,\"Percent\":-0.5}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":7,\"Percent\":0}}}}},\"weight\":{\"expr\":{\"Literal\":{\"Value\":\"5D\"}}}},\"selector\":{\"id\":\"default\"}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 196.45,
+          "width": 210.59,
+          "x": 162.53,
+          "y": 676.98,
+          "z": 36000.00
+        },
+        {
+          "config": "{\"name\":\"4d8f0ab8dc77587d680f\",\"layouts\":[{\"id\":0,\"position\":{\"x\":722.2083179977917,\"y\":84.7994111152006,\"z\":12000,\"width\":268.53146853146853,\"height\":108.82591093117409,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"ipl_matches_data.Season Runner\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"i\",\"Entity\":\"ipl_matches_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"Season Runner\"},\"Name\":\"ipl_matches_data.Season Runner\",\"NativeReferenceName\":\"Season Runner\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"labels\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 108.83,
+          "width": 268.53,
+          "x": 722.21,
+          "y": 84.80,
+          "z": 12000.00
+        },
+        {
+          "config": "{\"name\":\"50a13d7dcc85eefc5f2a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":623.2575832848362,\"y\":190.69821578118123,\"z\":19000,\"width\":151.1632198265461,\"height\":112.79101787057671,\"tabOrder\":14000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"ball_by_ball_data.Total Matches\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"b\",\"Entity\":\"ball_by_ball_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Total Matches\"},\"Name\":\"ball_by_ball_data.Total Matches\",\"NativeReferenceName\":\"Total Matches\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Total Matches\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 112.79,
+          "width": 151.16,
+          "x": 623.26,
+          "y": 190.70,
+          "z": 19000.00
+        },
+        {
+          "config": "{\"name\":\"53b94712508ae7278144\",\"layouts\":[{\"id\":0,\"position\":{\"x\":9.893264630106735,\"y\":350.5042326094958,\"z\":48000,\"width\":196.45196908354805,\"height\":60.77291129922709,\"tabOrder\":48000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"For More Information (Ctrl + Click)\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"Tahoma\",\"fontSize\":\"12pt\",\"color\":\"#ffffff\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 60.77,
+          "width": 196.45,
+          "x": 9.89,
+          "y": 350.50,
+          "z": 48000.00
+        },
+        {
+          "config": "{\"name\":\"58325398d755ed0f7d60\",\"layouts\":[{\"id\":0,\"position\":{\"x\":438.13029076186973,\"y\":439.5436142804564,\"z\":35000,\"width\":141.33235185866766,\"height\":135.67905778432095,\"tabOrder\":35000}}],\"singleVisual\":{\"visualType\":\"cardVisual\",\"projections\":{\"Data\":[{\"queryRef\":\"OrangeCap_Base.player image\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"o\",\"Entity\":\"OrangeCap_Base\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"player image\"},\"Name\":\"OrangeCap_Base.player image\",\"NativeReferenceName\":\"player image\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"image\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"imageType\":{\"expr\":{\"Literal\":{\"Value\":\"'imageUrl'\"}}},\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'top'\"}}},\"padding\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}},\"position\":{\"expr\":{\"Literal\":{\"Value\":\"'Left'\"}}}},\"selector\":{\"metadata\":\"OrangeCap_Base.player image\"}},{\"properties\":{\"imageUrl\":{\"expr\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"OrangeCap_Base\"}},\"Property\":\"player image\"}}}},\"selector\":{\"data\":[{\"dataViewWildcard\":{\"matchingOption\":0}}],\"metadata\":\"OrangeCap_Base.player image\"}}],\"value\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"label\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}}],\"layout\":[{\"properties\":{\"orientation\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}}}}]},\"vcObjects\":{\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 135.68,
+          "width": 141.33,
+          "x": 438.13,
+          "y": 439.54,
+          "z": 35000.00
+        },
+        {
+          "config": "{\"name\":\"6d255b3226bc618a116e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":272.7714390872286,\"y\":439.5436142804564,\"z\":31000,\"width\":134.26573426573427,\"height\":56.53294074346706,\"tabOrder\":32000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Orange Cap\",\"textStyle\":{\"fontFamily\":\"Tahoma\",\"fontSize\":\"12pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 56.53,
+          "width": 134.27,
+          "x": 272.77,
+          "y": 439.54,
+          "z": 31000.00
+        },
+        {
+          "config": "{\"name\":\"7a1405273d9e7e588a05\",\"layouts\":[{\"id\":0,\"position\":{\"x\":228.9584100110416,\"y\":428.237026131763,\"z\":26000,\"width\":374.5307324254693,\"height\":219.06514538093487,\"tabOrder\":29000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"shadowPositionPreset\":{\"expr\":{\"Literal\":{\"Value\":\"'bottomRight'\"}}},\"shadowBlur\":{\"expr\":{\"Literal\":{\"Value\":\"28D\"}}}},\"selector\":{\"id\":\"default\"}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 219.07,
+          "width": 374.53,
+          "x": 228.96,
+          "y": 428.24,
+          "z": 26000.00
+        },
+        {
+          "config": "{\"name\":\"8942b5454b469dba6e15\",\"layouts\":[{\"id\":0,\"position\":{\"x\":311.6287916424181,\"y\":87.20954989993044,\"z\":9000,\"width\":276.74497168244596,\"height\":104.65145987991653,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"ipl_matches_data.Season Winner\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"i\",\"Entity\":\"ipl_matches_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"Season Winner\"},\"Name\":\"ipl_matches_data.Season Winner\",\"NativeReferenceName\":\"Season Winner\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"labels\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Georgia'\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 104.65,
+          "width": 276.74,
+          "x": 311.63,
+          "y": 87.21,
+          "z": 9000.00
+        },
+        {
+          "config": "{\"name\":\"92dfa7d341e873343fcf\",\"layouts\":[{\"id\":0,\"position\":{\"x\":40.98638203901362,\"y\":507.3831431726169,\"z\":50000,\"width\":121.54582259845418,\"height\":87.62605815237394,\"tabOrder\":49000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"unnamed018931466290495913.png\"}}}}}],\"imageScaling\":[{\"properties\":{\"imageScalingType\":{\"expr\":{\"Literal\":{\"Value\":\"'Fill'\"}}}}}]},\"vcObjects\":{\"visualLink\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"type\":{\"expr\":{\"Literal\":{\"Value\":\"'WebUrl'\"}}},\"webUrl\":{\"expr\":{\"Literal\":{\"Value\":\"'https://www.espncricinfo.com/'\"}}},\"showDefaultTooltip\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'ESPNcricinfo'\"}}},\"fontColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 87.63,
+          "width": 121.55,
+          "x": 40.99,
+          "y": 507.38,
+          "z": 50000.00
+        },
+        {
+          "config": "{\"name\":\"967f186093f8f30761c7\",\"layouts\":[{\"id\":0,\"position\":{\"x\":240.69835772380802,\"y\":300.0008516557607,\"z\":21000,\"width\":125.58175185589984,\"height\":117.44219386523966,\"tabOrder\":16000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"ball_by_ball_data.Half Centries\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"b\",\"Entity\":\"ball_by_ball_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Half Centuries\"},\"Name\":\"ball_by_ball_data.Half Centries\",\"NativeReferenceName\":\"Half Centuries\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Half Centuries\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 117.44,
+          "width": 125.58,
+          "x": 240.70,
+          "y": 300.00,
+          "z": 21000.00
+        },
+        {
+          "config": "{\"name\":\"9c2317d2cad4a658ff20\",\"layouts\":[{\"id\":0,\"position\":{\"x\":9.893264630106735,\"y\":4.23997055576003,\"z\":45000,\"width\":193.6253220463747,\"height\":213.41185130658815,\"tabOrder\":45000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"ChatGPT_Image_Feb_8,_2026,_09_1602462797262174.png\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 213.41,
+          "width": 193.63,
+          "x": 9.89,
+          "y": 4.24,
+          "z": 45000.00
+        },
+        {
+          "config": "{\"name\":\"9c3d12ce5d5fc9ea2e99\",\"layouts\":[{\"id\":0,\"position\":{\"x\":402.3267235383458,\"y\":184.88424578785254,\"z\":13000,\"width\":197.67497977317566,\"height\":122.09336985990262,\"tabOrder\":25000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}},\"selector\":{\"id\":\"default\"}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"shadowPositionPreset\":{\"expr\":{\"Literal\":{\"Value\":\"'topRight'\"}}},\"shadowBlur\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}}},\"selector\":{\"id\":\"default\"}}],\"glow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 122.09,
+          "width": 197.67,
+          "x": 402.33,
+          "y": 184.88,
+          "z": 13000.00
+        },
+        {
+          "config": "{\"name\":\"9f2207f70282d67ff9fb\",\"layouts\":[{\"id\":0,\"position\":{\"x\":474.41995145562163,\"y\":4.651175994662957,\"z\":23000,\"width\":79.06999190927027,\"height\":69.76763991994436,\"tabOrder\":19000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"ChatGPT_Image_Feb_8,_2026,_06_13308305982359891.png\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 69.77,
+          "width": 79.07,
+          "x": 474.42,
+          "y": 4.65,
+          "z": 23000.00
+        },
+        {
+          "config": "{\"name\":\"a1dadd121f19196c0034\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1055.7526683842473,\"y\":173.8387927861612,\"z\":44000,\"width\":98.93264630106736,\"height\":118.71917556128084,\"tabOrder\":44000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"ball_by_ball_data.Venues\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"b\",\"Entity\":\"ball_by_ball_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Venues\"},\"Name\":\"ball_by_ball_data.Venues\",\"NativeReferenceName\":\"Venues\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Venues\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 118.72,
+          "width": 98.93,
+          "x": 1055.75,
+          "y": 173.84,
+          "z": 44000.00
+        },
+        {
+          "config": "{\"name\":\"ac174ed88e319cccaded\",\"layouts\":[{\"id\":0,\"position\":{\"x\":162.5322046374678,\"y\":439.5436142804564,\"z\":30000,\"width\":210.58520426941482,\"height\":196.45196908354805,\"tabOrder\":31000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'line'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}},\"angle\":{\"expr\":{\"Literal\":{\"Value\":\"90D\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":4,\"Percent\":0}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":4,\"Percent\":0}}}}},\"weight\":{\"expr\":{\"Literal\":{\"Value\":\"5D\"}}}},\"selector\":{\"id\":\"default\"}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 196.45,
+          "width": 210.59,
+          "x": 162.53,
+          "y": 439.54,
+          "z": 30000.00
+        },
+        {
+          "config": "{\"name\":\"bb3e3ccde970132ed1ed\",\"layouts\":[{\"id\":0,\"position\":{\"x\":600.0017033115214,\"y\":186.04703978651827,\"z\":18000,\"width\":197.67497977317566,\"height\":122.09336985990262,\"tabOrder\":24000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}},\"selector\":{\"id\":\"default\"}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"shadowPositionPreset\":{\"expr\":{\"Literal\":{\"Value\":\"'topRight'\"}}},\"shadowBlur\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}}},\"selector\":{\"id\":\"default\"}}],\"glow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 122.09,
+          "width": 197.67,
+          "x": 600.00,
+          "y": 186.05,
+          "z": 18000.00
+        },
+        {
+          "config": "{\"name\":\"c4eab8ee4ca696297acf\",\"layouts\":[{\"id\":0,\"position\":{\"x\":204.18666165136068,\"y\":186.74472328284907,\"z\":16000,\"width\":197.67497977317566,\"height\":122.09336985990262,\"tabOrder\":18000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}},\"selector\":{\"id\":\"default\"}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"shadowPositionPreset\":{\"expr\":{\"Literal\":{\"Value\":\"'topRight'\"}}},\"shadowBlur\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}}},\"selector\":{\"id\":\"default\"}}],\"glow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 122.09,
+          "width": 197.67,
+          "x": 204.19,
+          "y": 186.74,
+          "z": 16000.00
+        },
+        {
+          "config": "{\"name\":\"c96b7f436bed48707f67\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1006.9796028445302,\"y\":98.83748988658783,\"z\":6000,\"width\":200.00056777050716,\"height\":74.41881591460731,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"slicer\",\"projections\":{\"Values\":[{\"queryRef\":\"ipl_matches_data.season\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"i\",\"Entity\":\"ipl_matches_data\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"season\"},\"Name\":\"ipl_matches_data.season\",\"NativeReferenceName\":\"season\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"season\"}}}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"data\":[{\"properties\":{\"mode\":{\"expr\":{\"Literal\":{\"Value\":\"'Dropdown'\"}}}}}],\"selection\":[{\"properties\":{\"strictSingleSelect\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"general\":[{\"properties\":{\"filter\":{\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"i\",\"Entity\":\"ipl_matches_data\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"season\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'2025'\"}}]]}}}]}}}}],\"header\":[{\"properties\":{\"textSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}},\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'Season'\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}}}}],\"items\":[{\"properties\":{\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}},\"textSize\":{\"expr\":{\"Literal\":{\"Value\":\"13D\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 74.42,
+          "width": 200.00,
+          "x": 1006.98,
+          "y": 98.84,
+          "z": 6000.00
+        },
+        {
+          "config": "{\"name\":\"cac81eb9c6d68300ad03\",\"layouts\":[{\"id\":0,\"position\":{\"x\":320.8244387191756,\"y\":575.2226720647774,\"z\":34000,\"width\":196.45196908354805,\"height\":62.18623481781377,\"tabOrder\":28000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"OrangeCap_Base.Top Scorer Team\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"o\",\"Entity\":\"OrangeCap_Base\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"o\"}},\"Property\":\"Top Scorer team\"},\"Name\":\"OrangeCap_Base.Top Scorer Team\",\"NativeReferenceName\":\"Top Scorer team\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"labels\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}},\"preserveWhitespace\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"wordWrap\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'Team '\"}}},\"alignment\":{\"expr\":{\"Literal\":{\"Value\":\"'center'\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 62.19,
+          "width": 196.45,
+          "x": 320.82,
+          "y": 575.22,
+          "z": 34000.00
+        },
+        {
+          "config": "{\"name\":\"cc49908b61f12014aecd\",\"layouts\":[{\"id\":0,\"position\":{\"x\":603.4891424365109,\"y\":79.14611704085388,\"z\":11000,\"width\":399.97055576002947,\"height\":120.1324990798675,\"tabOrder\":8000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"outline\":[{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.3}}}}}},\"selector\":{\"id\":\"default\"}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 120.13,
+          "width": 399.97,
+          "x": 603.49,
+          "y": 79.15,
+          "z": 11000.00
+        },
+        {
+          "config": "{\"name\":\"cd06d267aec6bc68da6b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":269.94479205005524,\"y\":552.6094957673905,\"z\":33000,\"width\":67.83952889216047,\"height\":73.49282296650718,\"tabOrder\":34000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"Orange_Cap6249674355457127.png\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 73.49,
+          "width": 67.84,
+          "x": 269.94,
+          "y": 552.61,
+          "z": 33000.00
+        },
+        {
+          "config": "{\"name\":\"d1f11af387b761c48c6f\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1006.9796028445302,\"y\":181.39586379185533,\"z\":25000,\"width\":197.67497977317566,\"height\":122.09336985990262,\"tabOrder\":22000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"11L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}},\"selector\":{\"id\":\"default\"}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"shadowPositionPreset\":{\"expr\":{\"Literal\":{\"Value\":\"'topRight'\"}}},\"shadowBlur\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}}},\"selector\":{\"id\":\"default\"}}],\"glow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 122.09,
+          "width": 197.67,
+          "x": 1006.98,
+          "y": 181.40,
+          "z": 25000.00
+        },
+        {
+          "config": "{\"name\":\"dbafeda236a6e19b2a4b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":438.13029076186973,\"y\":676.9819654030181,\"z\":42000,\"width\":141.33235185866766,\"height\":142.74567537725434,\"tabOrder\":42000}}],\"singleVisual\":{\"visualType\":\"cardVisual\",\"projections\":{\"Data\":[{\"queryRef\":\"PurpleCap_Base.bowler image\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"p\",\"Entity\":\"PurpleCap_Base\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"p\"}},\"Property\":\"bowler image\"},\"Name\":\"PurpleCap_Base.bowler image\",\"NativeReferenceName\":\"bowler image\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"image\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"imageType\":{\"expr\":{\"Literal\":{\"Value\":\"'imageUrl'\"}}},\"imageUrl\":{\"expr\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"PurpleCap_Base\"}},\"Property\":\"bowler image\"}}}},\"selector\":{\"id\":\"default\"}}],\"value\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"label\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}}]},\"vcObjects\":{\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"padding\":[{\"properties\":{\"top\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}},\"left\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}},\"right\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}},\"bottom\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 142.75,
+          "width": 141.33,
+          "x": 438.13,
+          "y": 676.98,
+          "z": 42000.00
+        },
+        {
+          "config": "{\"name\":\"df11d1e8b9134efe4c29\",\"layouts\":[{\"id\":0,\"position\":{\"x\":9.893264630106735,\"y\":0,\"z\":2000,\"width\":195.03864556496137,\"height\":900.2870813397129,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'tabRoundCorner'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}},\"angle\":{\"expr\":{\"Literal\":{\"Value\":\"180D\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#00237D'\"}}}}}},\"selector\":{\"id\":\"default\"}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 900.29,
+          "width": 195.04,
+          "x": 9.89,
+          "y": 0.00,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"e57d71afe416cf313ca3\",\"layouts\":[{\"id\":0,\"position\":{\"x\":419.76863351833185,\"y\":188.37262778384977,\"z\":15000,\"width\":168.6051298065322,\"height\":117.44219386523966,\"tabOrder\":12000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"ball_by_ball_data.Total Fours\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"b\",\"Entity\":\"ball_by_ball_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Total Fours\"},\"Name\":\"ball_by_ball_data.Total Fours\",\"NativeReferenceName\":\"Total Fours\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"Total Fours\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 117.44,
+          "width": 168.61,
+          "x": 419.77,
+          "y": 188.37,
+          "z": 15000.00
+        },
+        {
+          "config": "{\"name\":\"e8a7f9dfa45db2635bd5\",\"layouts\":[{\"id\":0,\"position\":{\"x\":271.3581155686419,\"y\":740.5815237394185,\"z\":38000,\"width\":94.69267574530733,\"height\":35.333087964666916,\"tabOrder\":38000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Wickets\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"Tahoma\",\"fontSize\":\"12pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 35.33,
+          "width": 94.69,
+          "x": 271.36,
+          "y": 740.58,
+          "z": 38000.00
+        },
+        {
+          "config": "{\"name\":\"ec8c234563ded77f5a18\",\"layouts\":[{\"id\":0,\"position\":{\"x\":272.7714390872286,\"y\":801.3544350386456,\"z\":40000,\"width\":69.25285241074715,\"height\":72.0794994479205,\"tabOrder\":40000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"Purple_Cap2746600162000157.png\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 72.08,
+          "width": 69.25,
+          "x": 272.77,
+          "y": 801.35,
+          "z": 40000.00
+        },
+        {
+          "config": "{\"name\":\"f1f80ae93d982b9274ea\",\"layouts\":[{\"id\":0,\"position\":{\"x\":603.4891424365109,\"y\":315.17114464482887,\"z\":49000,\"width\":661.4354066985646,\"height\":585.1159366948841,\"tabOrder\":50000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangle'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}},\"roundEdge\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.6}}}}}},\"selector\":{\"id\":\"default\"}}],\"shadow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}],\"glow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.2}}}}}},\"selector\":{\"id\":\"default\"}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'Points Table'\"}}},\"heading\":{\"expr\":{\"Literal\":{\"Value\":\"'Heading4'\"}}},\"alignment\":{\"expr\":{\"Literal\":{\"Value\":\"'center'\"}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"17D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}},\"howCreated\":\"InsertVisualButton\"}",
+          "filters": "[]",
+          "height": 585.12,
+          "width": 661.44,
+          "x": 603.49,
+          "y": 315.17,
+          "z": 49000.00
+        },
+        {
+          "config": "{\"name\":\"f5fd6356c7af5896e582\",\"layouts\":[{\"id\":0,\"position\":{\"x\":251.57158630842844,\"y\":696.7684946632315,\"z\":41000,\"width\":197.86529260213473,\"height\":43.81302907618697,\"tabOrder\":41000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"PurpleCap_Base.Top wicket taker\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"p\",\"Entity\":\"PurpleCap_Base\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"p\"}},\"Property\":\"Top wicket taker\"},\"Name\":\"PurpleCap_Base.Top wicket taker\",\"NativeReferenceName\":\"Top wicket taker\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"labels\":[{\"properties\":{\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Tahoma'\"}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 43.81,
+          "width": 197.87,
+          "x": 251.57,
+          "y": 696.77,
+          "z": 41000.00
+        },
+        {
+          "config": "{\"name\":\"fbd85c674168337f7d20\",\"layouts\":[{\"id\":0,\"position\":{\"x\":630.3422892896577,\"y\":87.62605815237394,\"z\":14000,\"width\":134.26573426573427,\"height\":101.75929333824071,\"tabOrder\":9000}}],\"singleVisual\":{\"visualType\":\"cardVisual\",\"projections\":{\"Data\":[{\"queryRef\":\"ball_by_ball_data.ipl logo runner\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"b\",\"Entity\":\"ball_by_ball_data\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"ipl logo runner\"},\"Name\":\"ball_by_ball_data.ipl logo runner\",\"NativeReferenceName\":\"ipl logo runner\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"image\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"imageType\":{\"expr\":{\"Literal\":{\"Value\":\"'imageUrl'\"}}},\"imageUrl\":{\"expr\":{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"teams_data\"}},\"Property\":\"image_url\"}},\"Function\":3}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{\"imageUrl\":{\"expr\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"ball_by_ball_data\"}},\"Property\":\"ipl logo runner\"}}}},\"selector\":{\"data\":[{\"dataViewWildcard\":{\"matchingOption\":0}}],\"metadata\":\"ball_by_ball_data.ipl logo runner\"}}],\"value\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"15D\"}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fillCustom\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}}],\"label\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}}]},\"vcObjects\":{\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 101.76,
+          "width": 134.27,
+          "x": 630.34,
+          "y": 87.63,
+          "z": 14000.00
+        }
+      ],
+      "width": 1280.00
+    },
+    {
+      "config": "{}",
+      "displayName": "Page 2",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "9351f478c4a722e0b7eb",
+      "ordinal": 1,
+      "visualContainers": [],
+      "width": 1280.00
+    }
+  ]
+}
