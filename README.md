@@ -18,4 +18,4 @@ All visuals update dynamically when the season slicer is changed.
 3. Use the Season slicer to explore different years
 
 ## Screenshots
-
+![season_2025](screenshots/Insights-2025.png)
